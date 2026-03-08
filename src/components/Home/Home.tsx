@@ -35,7 +35,7 @@ const sections = [
     )
   },
   {
-    title: "I teach backend in College",
+    title: "Conduct Backend and Cloud workshops in college",
     media: <img src={indiamart} className="w-40 md:w-48 lg:w-60" />
   }
 ]
