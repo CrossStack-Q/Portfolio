@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+:root {
+  /* Navbar */
+  --nav-inactive: #697282;
+  --nav-active: #101828;
+
+  /* Text */
+  --text-main: #737373;
+
+  /* Logo */
+  --logo-color: #101828;
+
+  /* Dots */
+  --dot-out: #E5E5E5;
+  --dot-in: #A1A1A1;
+}
+
