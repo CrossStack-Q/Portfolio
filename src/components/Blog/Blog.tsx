@@ -1,6 +1,5 @@
 import BlogItem from './BlogItem'
 
-type Props = {}
 
 export const blogs = [
   {
@@ -30,7 +29,7 @@ export const blogs = [
   },
 ]
 
-const Blog = (props: Props) => {
+const Blog = () => {
   return (
     <div className="max-w-7xl mx-auto py-8">
 

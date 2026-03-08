@@ -1,5 +1,4 @@
 
-type Props = {}
 
 export const platforms = [
   {
@@ -100,7 +99,7 @@ export const platforms = [
   },
 ]
 
-const ReactFrontend = (props: Props) => {
+const ReactFrontend = () => {
   return (
     <div className="max-w-7xl mx-auto px-4 md:px-6 py-10 md:py-14 lg:py-16">
 
