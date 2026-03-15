@@ -4,6 +4,10 @@ import ScrollIndicator from "./ScrollIndicator"
 // https://hashnode.com/@ParasharI
 const sections = [
   {
+    title: "Anurag Sharma",
+    media: <img src="https://raw.githubusercontent.com/sairol/extra/refs/heads/main/Anurag.jpg" className="w-40 md:w-48 lg:w-60 rounded-2xl" />
+  },
+  {
     title: "I work as a software engineer",
     media: <img src={indiamart} className="w-40 md:w-48 lg:w-60" />
   },
